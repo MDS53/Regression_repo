@@ -1,0 +1,6 @@
+numpy
+pandas
+Flask
+-e .
+#This -e . will call or trigger or links the setup.py
+
